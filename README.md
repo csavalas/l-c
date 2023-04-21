@@ -6,8 +6,8 @@
 * Install Python <span style="color:red">3.\*</span>
 * run <code>./setup.sh</code> (or <code>./setup.ps1</code> for Windows) then restart your terminal.
 ## Supported Platforms
-* macOS _(zsh)_
 * Linux _(bash)_
+* macOS _(zsh)_
 * Windows _(Terminal:Powershell)_
 # Usage Instructions
 ## General note
