@@ -18,7 +18,7 @@ with other commands to avoid mouse input or slow transcription, eg, <code>code \
     * The output of <code>l</code> will enumerate the result of the query (detailed below)
     * The selected number will copy the corresponding dir/file to clipboard
     * Directories are listed first, then files, then special items
-    * _NOTE: All entries are accessible to cx by number regardless of selection_
+    * _NOTE: All entries are accessible to <code>c</code> by number regardless of selection_
 * Query Examples (inexhaustive)
     * NOTE: <code>*</code>'s must be escaped in macOS/Linux
         * eg. <code>l dir/subdir/\*.png</code> would be written <code>l dir/subdir/<span style="color:red">\\</span>\*.png</code> 
