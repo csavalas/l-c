@@ -1,4 +1,4 @@
-# <code>l</code>/<code>c</code> (fast <code>ls</code>/<code>cd</code> replacements)
+# <code>l</code>/<code>c</code> (enhanced <code>ls</code>/<code>cd</code> replacements)
 
 <hr>
 
